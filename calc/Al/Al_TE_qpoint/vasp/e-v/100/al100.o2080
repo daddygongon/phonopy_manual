@@ -1,0 +1,26 @@
+ running on    8 nodes
+ distr:  one band on    1 nodes,    8 groups
+ vasp.4.6.28 25Jul05 complex 
+ POSCAR found :  1 types and    4 ions
+ LDA part: xc-table for Pade appr. of Perdew
+ generate k-points for:  12  12  12
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...           1
+ reading WAVECAR
+ WARNING: random wavefunctions but no delay for mixing, default for NELMDL
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.520347557908E+01    0.52035E+01   -0.39178E+03  2688   0.551E+02
+DAV:   2    -0.144616045741E+02   -0.19665E+02   -0.18459E+02  3616   0.830E+01
+DAV:   3    -0.150578262746E+02   -0.59622E+00   -0.59462E+00  3504   0.111E+01
+DAV:   4    -0.150616203746E+02   -0.37941E-02   -0.37939E-02  3368   0.116E+00
+DAV:   5    -0.150616688818E+02   -0.48507E-04   -0.48507E-04  3512   0.130E-01    0.188E+00
+DAV:   6    -0.150086689006E+02    0.53000E-01   -0.60752E-03  3224   0.389E-01    0.117E+00
+DAV:   7    -0.149700138726E+02    0.38655E-01   -0.18778E-02  3080   0.640E-01    0.495E-02
+DAV:   8    -0.149700363566E+02   -0.22484E-04   -0.14412E-04  3536   0.760E-02    0.127E-02
+DAV:   9    -0.149700395374E+02   -0.31808E-05   -0.40423E-06  3392   0.943E-03    0.123E-03
+DAV:  10    -0.149700385668E+02    0.97060E-06   -0.46389E-08  3624   0.155E-03    0.315E-04
+DAV:  11    -0.149700383976E+02    0.16923E-06   -0.15497E-09  2488   0.204E-04    0.272E-05
+DAV:  12    -0.149700384247E+02   -0.27120E-07   -0.16441E-10  2056   0.790E-05    0.853E-06
+DAV:  13    -0.149700384265E+02   -0.17445E-08   -0.36974E-11  1744   0.288E-05
+   1 F= -.14970038E+02 E0= -.14970004E+02  d E =-.681924E-04

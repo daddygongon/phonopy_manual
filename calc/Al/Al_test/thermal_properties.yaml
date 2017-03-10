@@ -1,0 +1,621 @@
+# Thermal properties / unit cell (natom)
+
+unit:
+  temperature:   K
+  free_energy:   kJ/mol
+  entropy:       J/K/mol
+  heat_capacity: J/K/mol
+
+natom:     4
+num_modes: 6144
+num_integrated_modes: 6144
+
+zero_point_energy:      14.4944250
+high_T_entropy:        373.2283144
+
+thermal_properties:
+- temperature:         0.0000000
+  free_energy:        14.4944250
+  entropy:             0.0000000
+  heat_capacity:       0.0000000
+  energy:             14.4944250
+
+- temperature:        10.0000000
+  free_energy:        14.4943764
+  entropy:             0.0251849
+  heat_capacity:       0.0933018
+  energy:             14.4946283
+
+- temperature:        20.0000000
+  free_energy:        14.4932108
+  entropy:             0.2641688
+  heat_capacity:       0.8683306
+  energy:             14.4984941
+
+- temperature:        30.0000000
+  free_energy:        14.4873671
+  entropy:             1.0259700
+  heat_capacity:       3.4822550
+  energy:             14.5181462
+
+- temperature:        40.0000000
+  free_energy:        14.4696566
+  entropy:             2.6880404
+  heat_capacity:       8.7453189
+  energy:             14.5771782
+
+- temperature:        50.0000000
+  free_energy:        14.4301006
+  entropy:             5.3925843
+  heat_capacity:      15.9996778
+  energy:             14.6997299
+
+- temperature:        60.0000000
+  free_energy:        14.3587140
+  entropy:             9.0212578
+  heat_capacity:      24.1108918
+  energy:             14.8999895
+
+- temperature:        70.0000000
+  free_energy:        14.2473410
+  entropy:            13.3505027
+  heat_capacity:      32.2134626
+  energy:             15.1818762
+
+- temperature:        80.0000000
+  free_energy:        14.0901236
+  entropy:            18.1552238
+  heat_capacity:      39.8098637
+  energy:             15.5425415
+
+- temperature:        90.0000000
+  free_energy:        13.8832810
+  entropy:            23.2481301
+  heat_capacity:      46.6733969
+  energy:             15.9756127
+
+- temperature:       100.0000000
+  free_energy:        13.6246799
+  entropy:            28.4867044
+  heat_capacity:      52.7420239
+  energy:             16.4733503
+
+- temperature:       110.0000000
+  free_energy:        13.3134080
+  entropy:            33.7679957
+  heat_capacity:      58.0422459
+  energy:             17.0278875
+
+- temperature:       120.0000000
+  free_energy:        12.9494191
+  entropy:            39.0203284
+  heat_capacity:      62.6418729
+  energy:             17.6318585
+
+- temperature:       130.0000000
+  free_energy:        12.5332608
+  entropy:            44.1954092
+  heat_capacity:      66.6231890
+  energy:             18.2786640
+
+- temperature:       140.0000000
+  free_energy:        12.0658742
+  entropy:            49.2618810
+  heat_capacity:      70.0688790
+  energy:             18.9625376
+
+- temperature:       150.0000000
+  free_energy:        11.5484505
+  entropy:            54.2004092
+  heat_capacity:      73.0553811
+  energy:             19.6785119
+
+- temperature:       160.0000000
+  free_energy:        10.9823296
+  entropy:            59.0000717
+  heat_capacity:      75.6503216
+  energy:             20.4223410
+
+- temperature:       170.0000000
+  free_energy:        10.3689295
+  entropy:            63.6557600
+  heat_capacity:      77.9120631
+  energy:             21.1904087
+
+- temperature:       180.0000000
+  free_energy:         9.7096984
+  entropy:            68.1663313
+  heat_capacity:      79.8902594
+  energy:             21.9796380
+
+- temperature:       190.0000000
+  free_energy:         9.0060817
+  entropy:            72.5333024
+  heat_capacity:      81.6268204
+  energy:             22.7874091
+
+- temperature:       200.0000000
+  free_energy:         8.2595002
+  entropy:            76.7599339
+  heat_capacity:      83.1569804
+  energy:             23.6114870
+
+- temperature:       210.0000000
+  free_energy:         7.4713363
+  entropy:            80.8505883
+  heat_capacity:      84.5103208
+  energy:             24.4499599
+
+- temperature:       220.0000000
+  free_energy:         6.6429251
+  entropy:            84.8102830
+  heat_capacity:      85.7116858
+  energy:             25.3011873
+
+- temperature:       230.0000000
+  free_energy:         5.7755494
+  entropy:            88.6443812
+  heat_capacity:      86.7819727
+  energy:             26.1637570
+
+- temperature:       240.0000000
+  free_energy:         4.8704378
+  entropy:            92.3583796
+  heat_capacity:      87.7387989
+  energy:             27.0364489
+
+- temperature:       250.0000000
+  free_energy:         3.9287638
+  entropy:            95.9577636
+  heat_capacity:      88.5970582
+  energy:             27.9182047
+
+- temperature:       260.0000000
+  free_energy:         2.9516466
+  entropy:            99.4479123
+  heat_capacity:      89.3693811
+  energy:             28.8081038
+
+- temperature:       270.0000000
+  free_energy:         1.9401523
+  entropy:           102.8340355
+  heat_capacity:      90.0665141
+  energy:             29.7053419
+
+- temperature:       280.0000000
+  free_energy:         0.8952959
+  entropy:           106.1211365
+  heat_capacity:      90.6976324
+  energy:             30.6092142
+
+- temperature:       290.0000000
+  free_energy:        -0.1819563
+  entropy:           109.3139900
+  heat_capacity:      91.2705963
+  energy:             31.5191008
+
+- temperature:       300.0000000
+  free_energy:        -1.2906849
+  entropy:           112.4171324
+  heat_capacity:      91.7921635
+  energy:             32.4344549
+
+- temperature:       310.0000000
+  free_energy:        -2.4300143
+  entropy:           115.4348598
+  heat_capacity:      92.2681633
+  energy:             33.3547923
+
+- temperature:       320.0000000
+  free_energy:        -3.5991109
+  entropy:           118.3712313
+  heat_capacity:      92.7036413
+  energy:             34.2796831
+
+- temperature:       330.0000000
+  free_energy:        -4.7971805
+  entropy:           121.2300763
+  heat_capacity:      93.1029792
+  energy:             35.2087447
+
+- temperature:       340.0000000
+  free_energy:        -6.0234661
+  entropy:           124.0150032
+  heat_capacity:      93.4699942
+  energy:             36.1416350
+
+- temperature:       350.0000000
+  free_energy:        -7.2772455
+  entropy:           126.7294100
+  heat_capacity:      93.8080224
+  energy:             37.0780480
+
+- temperature:       360.0000000
+  free_energy:        -8.5578299
+  entropy:           129.3764958
+  heat_capacity:      94.1199879
+  energy:             38.0177086
+
+- temperature:       370.0000000
+  free_energy:        -9.8645611
+  entropy:           131.9592718
+  heat_capacity:      94.4084615
+  energy:             38.9603695
+
+- temperature:       380.0000000
+  free_energy:       -11.1968104
+  entropy:           134.4805725
+  heat_capacity:      94.6757097
+  energy:             39.9058071
+
+- temperature:       390.0000000
+  free_energy:       -12.5539765
+  entropy:           136.9430671
+  heat_capacity:      94.9237361
+  energy:             40.8538196
+
+- temperature:       400.0000000
+  free_energy:       -13.9354841
+  entropy:           139.3492696
+  heat_capacity:      95.1543169
+  energy:             41.8042237
+
+- temperature:       410.0000000
+  free_energy:       -15.3407822
+  entropy:           141.7015495
+  heat_capacity:      95.3690304
+  energy:             42.7568531
+
+- temperature:       420.0000000
+  free_energy:       -16.7693428
+  entropy:           144.0021404
+  heat_capacity:      95.5692825
+  energy:             43.7115561
+
+- temperature:       430.0000000
+  free_energy:       -18.2206598
+  entropy:           146.2531500
+  heat_capacity:      95.7563287
+  energy:             44.6681947
+
+- temperature:       440.0000000
+  free_energy:       -19.6942472
+  entropy:           148.4565674
+  heat_capacity:      95.9312929
+  energy:             45.6266425
+
+- temperature:       450.0000000
+  free_energy:       -21.1896387
+  entropy:           150.6142720
+  heat_capacity:      96.0951830
+  energy:             46.5867837
+
+- temperature:       460.0000000
+  free_energy:       -22.7063862
+  entropy:           152.7280401
+  heat_capacity:      96.2489050
+  energy:             47.5485122
+
+- temperature:       470.0000000
+  free_energy:       -24.2440587
+  entropy:           154.7995517
+  heat_capacity:      96.3932753
+  energy:             48.5117306
+
+- temperature:       480.0000000
+  free_energy:       -25.8022417
+  entropy:           156.8303973
+  heat_capacity:      96.5290304
+  energy:             49.4763490
+
+- temperature:       490.0000000
+  free_energy:       -27.3805361
+  entropy:           158.8220834
+  heat_capacity:      96.6568366
+  energy:             50.4422847
+
+- temperature:       500.0000000
+  free_energy:       -28.9785576
+  entropy:           160.7760378
+  heat_capacity:      96.7772975
+  energy:             51.4094613
+
+- temperature:       510.0000000
+  free_energy:       -30.5959356
+  entropy:           162.6936150
+  heat_capacity:      96.8909610
+  energy:             52.3778080
+
+- temperature:       520.0000000
+  free_energy:       -32.2323129
+  entropy:           164.5761009
+  heat_capacity:      96.9983250
+  energy:             53.3472595
+
+- temperature:       530.0000000
+  free_energy:       -33.8873448
+  entropy:           166.4247166
+  heat_capacity:      97.0998433
+  energy:             54.3177550
+
+- temperature:       540.0000000
+  free_energy:       -35.5606982
+  entropy:           168.2406232
+  heat_capacity:      97.1959297
+  energy:             55.2892383
+
+- temperature:       550.0000000
+  free_energy:       -37.2520519
+  entropy:           170.0249249
+  heat_capacity:      97.2869623
+  energy:             56.2616568
+
+- temperature:       560.0000000
+  free_energy:       -38.9610949
+  entropy:           171.7786727
+  heat_capacity:      97.3732870
+  energy:             57.2349618
+
+- temperature:       570.0000000
+  free_energy:       -40.6875268
+  entropy:           173.5028680
+  heat_capacity:      97.4552211
+  energy:             58.2091079
+
+- temperature:       580.0000000
+  free_energy:       -42.4310569
+  entropy:           175.1984647
+  heat_capacity:      97.5330554
+  energy:             59.1840526
+
+- temperature:       590.0000000
+  free_energy:       -44.1914038
+  entropy:           176.8663730
+  heat_capacity:      97.6070574
+  energy:             60.1597562
+
+- temperature:       600.0000000
+  free_energy:       -45.9682950
+  entropy:           178.5074613
+  heat_capacity:      97.6774731
+  energy:             61.1361818
+
+- temperature:       610.0000000
+  free_energy:       -47.7614664
+  entropy:           180.1225589
+  heat_capacity:      97.7445294
+  energy:             62.1132945
+
+- temperature:       620.0000000
+  free_energy:       -49.5706622
+  entropy:           181.7124582
+  heat_capacity:      97.8084355
+  energy:             63.0910619
+
+- temperature:       630.0000000
+  free_energy:       -51.3956341
+  entropy:           183.2779166
+  heat_capacity:      97.8693846
+  energy:             64.0694534
+
+- temperature:       640.0000000
+  free_energy:       -53.2361415
+  entropy:           184.8196590
+  heat_capacity:      97.9275555
+  energy:             65.0484403
+
+- temperature:       650.0000000
+  free_energy:       -55.0919506
+  entropy:           186.3383790
+  heat_capacity:      97.9831137
+  energy:             66.0279958
+
+- temperature:       660.0000000
+  free_energy:       -56.9628345
+  entropy:           187.8347408
+  heat_capacity:      98.0362126
+  energy:             67.0080944
+
+- temperature:       670.0000000
+  free_energy:       -58.8485730
+  entropy:           189.3093810
+  heat_capacity:      98.0869945
+  energy:             67.9887123
+
+- temperature:       680.0000000
+  free_energy:       -60.7489518
+  entropy:           190.7629100
+  heat_capacity:      98.1355919
+  energy:             68.9698270
+
+- temperature:       690.0000000
+  free_energy:       -62.6637628
+  entropy:           192.1959131
+  heat_capacity:      98.1821276
+  energy:             69.9514173
+
+- temperature:       700.0000000
+  free_energy:       -64.5928035
+  entropy:           193.6089522
+  heat_capacity:      98.2267161
+  energy:             70.9334631
+
+- temperature:       710.0000000
+  free_energy:       -66.5358771
+  entropy:           195.0025669
+  heat_capacity:      98.2694642
+  energy:             71.9159455
+
+- temperature:       720.0000000
+  free_energy:       -68.4927918
+  entropy:           196.3772755
+  heat_capacity:      98.3104714
+  energy:             72.8988465
+
+- temperature:       730.0000000
+  free_energy:       -70.4633612
+  entropy:           197.7335762
+  heat_capacity:      98.3498306
+  energy:             73.8821494
+
+- temperature:       740.0000000
+  free_energy:       -72.4474036
+  entropy:           199.0719480
+  heat_capacity:      98.3876286
+  energy:             74.8658380
+
+- temperature:       750.0000000
+  free_energy:       -74.4447419
+  entropy:           200.3928520
+  heat_capacity:      98.4239465
+  energy:             75.8498970
+
+- temperature:       760.0000000
+  free_energy:       -76.4552039
+  entropy:           201.6967317
+  heat_capacity:      98.4588604
+  energy:             76.8343122
+
+- temperature:       770.0000000
+  free_energy:       -78.4786213
+  entropy:           202.9840144
+  heat_capacity:      98.4924415
+  energy:             77.8190698
+
+- temperature:       780.0000000
+  free_energy:       -80.5148302
+  entropy:           204.2551116
+  heat_capacity:      98.5247566
+  energy:             78.8041568
+
+- temperature:       790.0000000
+  free_energy:       -82.5636709
+  entropy:           205.5104200
+  heat_capacity:      98.5558683
+  energy:             79.7895609
+
+- temperature:       800.0000000
+  free_energy:       -84.6249873
+  entropy:           206.7503220
+  heat_capacity:      98.5858353
+  energy:             80.7752704
+
+- temperature:       810.0000000
+  free_energy:       -86.6986272
+  entropy:           207.9751866
+  heat_capacity:      98.6147131
+  energy:             81.7612740
+
+- temperature:       820.0000000
+  free_energy:       -88.7844420
+  entropy:           209.1853698
+  heat_capacity:      98.6425536
+  energy:             82.7475612
+
+- temperature:       830.0000000
+  free_energy:       -90.8822868
+  entropy:           210.3812151
+  heat_capacity:      98.6694058
+  energy:             83.7341218
+
+- temperature:       840.0000000
+  free_energy:       -92.9920197
+  entropy:           211.5630545
+  heat_capacity:      98.6953157
+  energy:             84.7209461
+
+- temperature:       850.0000000
+  free_energy:       -95.1135023
+  entropy:           212.7312086
+  heat_capacity:      98.7203268
+  energy:             85.7080251
+
+- temperature:       860.0000000
+  free_energy:       -97.2465993
+  entropy:           213.8859873
+  heat_capacity:      98.7444801
+  energy:             86.6953498
+
+- temperature:       870.0000000
+  free_energy:       -99.3911784
+  entropy:           215.0276901
+  heat_capacity:      98.7678143
+  energy:             87.6829120
+
+- temperature:       880.0000000
+  free_energy:      -101.5471104
+  entropy:           216.1566067
+  heat_capacity:      98.7903659
+  energy:             88.6707035
+
+- temperature:       890.0000000
+  free_energy:      -103.7142689
+  entropy:           217.2730176
+  heat_capacity:      98.8121694
+  energy:             89.6587168
+
+- temperature:       900.0000000
+  free_energy:      -105.8925300
+  entropy:           218.3771939
+  heat_capacity:      98.8332574
+  energy:             90.6469445
+
+- temperature:       910.0000000
+  free_energy:      -108.0817728
+  entropy:           219.4693983
+  heat_capacity:      98.8536609
+  energy:             91.6353797
+
+- temperature:       920.0000000
+  free_energy:      -110.2818789
+  entropy:           220.5498853
+  heat_capacity:      98.8734091
+  energy:             92.6240155
+
+- temperature:       930.0000000
+  free_energy:      -112.4927323
+  entropy:           221.6189011
+  heat_capacity:      98.8925297
+  energy:             93.6128457
+
+- temperature:       940.0000000
+  free_energy:      -114.7142195
+  entropy:           222.6766847
+  heat_capacity:      98.9110489
+  energy:             94.6018641
+
+- temperature:       950.0000000
+  free_energy:      -116.9462293
+  entropy:           223.7234675
+  heat_capacity:      98.9289916
+  energy:             95.5910648
+
+- temperature:       960.0000000
+  free_energy:      -119.1886529
+  entropy:           224.7594740
+  heat_capacity:      98.9463816
+  energy:             96.5804421
+
+- temperature:       970.0000000
+  free_energy:      -121.4413836
+  entropy:           225.7849219
+  heat_capacity:      98.9632411
+  energy:             97.5699907
+
+- temperature:       980.0000000
+  free_energy:      -123.7043169
+  entropy:           226.8000226
+  heat_capacity:      98.9795915
+  energy:             98.5597052
+
+- temperature:       990.0000000
+  free_energy:      -125.9773503
+  entropy:           227.8049809
+  heat_capacity:      98.9954531
+  energy:             99.5495809
+
+- temperature:      1000.0000000
+  free_energy:      -128.2603834
+  entropy:           228.7999961
+  heat_capacity:      99.0108450
+  energy:            100.5396127

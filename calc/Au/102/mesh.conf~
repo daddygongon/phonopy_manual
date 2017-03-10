@@ -1,0 +1,5 @@
+ATOM_NAME = Au
+DIM = 2 2 2
+#MP = 48 48 48
+MP = 96 96 96
+TMAX = 2000

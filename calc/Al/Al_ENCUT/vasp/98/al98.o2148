@@ -1,0 +1,40 @@
+ running on    4 nodes
+ distr:  one band on    1 nodes,    4 groups
+ vasp.4.6.28 25Jul05 complex 
+ POSCAR found :  1 types and   32 ions
+
+ ----------------------------------------------------------------------------- 
+|                                                                             |
+|  ADVICE TO THIS USER RUNNING 'VASP/VAMP'   (HEAR YOUR MASTER'S VOICE ...):  |
+|                                                                             |
+|      You have a (more or less) 'large supercell' and for larger cells       |
+|      it might be more efficient to use real space projection operators      |
+|      So try LREAL= Auto  in the INCAR   file.                               |
+|      Mind: If you want to do an extremely accurate calculations keep the    |
+|      reciprocal projection scheme          (i.e. LREAL=.FALSE.)             |
+|                                                                             |
+ ----------------------------------------------------------------------------- 
+
+ LDA part: xc-table for Pade appr. of Perdew
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...           1
+ reading WAVECAR
+ WARNING: random wavefunctions but no delay for mixing, default for NELMDL
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.191293428580E+03    0.19129E+03   -0.42985E+04 26656   0.154E+03
+DAV:   2    -0.101792418342E+03   -0.29309E+03   -0.27433E+03 31048   0.173E+02
+DAV:   3    -0.119658732806E+03   -0.17866E+02   -0.16862E+02 33128   0.326E+01
+DAV:   4    -0.120085925922E+03   -0.42719E+00   -0.42123E+00 31436   0.499E+00
+DAV:   5    -0.120091318110E+03   -0.53922E-02   -0.53824E-02 31660   0.661E-01    0.546E+00
+DAV:   6    -0.119649740660E+03    0.44158E+00   -0.42740E-02 30640   0.691E-01    0.339E+00
+DAV:   7    -0.119328618798E+03    0.32112E+00   -0.12782E-01 29308   0.111E+00    0.136E-01
+DAV:   8    -0.119328807783E+03   -0.18898E-03   -0.11650E-03 31976   0.138E-01    0.483E-02
+DAV:   9    -0.119328843235E+03   -0.35451E-04   -0.54617E-05 31072   0.213E-02    0.400E-03
+DAV:  10    -0.119328845129E+03   -0.18947E-05   -0.31916E-06 31784   0.592E-03    0.204E-03
+DAV:  11    -0.119328842692E+03    0.24375E-05   -0.23569E-07 31272   0.148E-03    0.789E-04
+DAV:  12    -0.119328841803E+03    0.88853E-06   -0.22326E-08 21584   0.500E-04    0.132E-04
+DAV:  13    -0.119328841650E+03    0.15322E-06   -0.29452E-09 17720   0.204E-04    0.354E-05
+DAV:  14    -0.119328841640E+03    0.10335E-07   -0.48230E-10 17232   0.766E-05    0.929E-06
+DAV:  15    -0.119328841649E+03   -0.92987E-08   -0.85984E-11 17064   0.396E-05
+   1 F= -.11932884E+03 E0= -.11932844E+03  d E =-.795857E-03
